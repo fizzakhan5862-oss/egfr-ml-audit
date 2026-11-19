@@ -1,0 +1,4 @@
+﻿search_id,database,query,date_run,records_returned,notes
+SR001,PubMed,"EGFR AND (machine learning OR radiomics OR deep learning)",2026-11-20,0,Placeholder - run search and replace
+SR002,Embase,"EGFR AND (machine learning OR radiomics)",2026-11-20,0,Placeholder - run search and replace
+SR003,Web of Science,"EGFR AND artificial intelligence",2026-11-20,0,Placeholder - run search and replace

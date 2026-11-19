@@ -1,0 +1,20 @@
+# Raw data (downloaded locally via data/download.py, never committed)
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
